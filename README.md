@@ -59,6 +59,10 @@ Use your knowledge of JavaScript classes to create the apps listed here: build t
 - Scooter
 	- batteryMinutesLeft
 - Vehicles
+	- properties
+		- vehicles - *array*
+	- addBike(bike)
+	- addScooter(scooter)
 	- listBikes([child/adult/all])
 	- listCurrentlyFree()
  
