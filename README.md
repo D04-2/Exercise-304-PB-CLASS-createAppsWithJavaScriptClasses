@@ -21,7 +21,7 @@ Use your knowledge of JavaScript classes to create the apps listed here: build t
 	    - listCars()
 
 ### Challenge :muscle:
-        - method: exportAsHtml()
+	- method: exportAsHtml()
 	- method: exportAsJson()
 	- method: exportAsXml()
 
