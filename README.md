@@ -61,5 +61,5 @@ Use your knowledge of JavaScript classes to create the apps listed here: build t
 		- text?
 		- canvas?
 		- Google Maps API?
-	- getClosestVehichle(lat,long)
+	- getClosestVehicle(lat,long)
 
