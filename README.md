@@ -5,13 +5,20 @@ Use your knowledge of JavaScript classes to create the apps listed here: build t
 ## 1. Used Car App
 
 - Car
-	- make
-	- color
-	- year
+	- constructor(make,color,year)
+	- properties
+	    - make
+	    - color
+	    - year
+	- methods
+	    - display()
 - Cars
 	- constructor()
-	- addCar(car)
-	- listCars()
+	- properties
+	    - cars *(array)*
+	- methods
+	    - addCar(car)
+	    - listCars()
 
 ## 2. Coding School App
 
