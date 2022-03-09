@@ -51,7 +51,7 @@ Use your knowledge of JavaScript classes to create the apps listed here: build t
 - Vehicle
 	- latitude
 	- longitude
-	- currentlyRented
+	- currentlyRented - *boolean*
 - Bike
 	- color
 	- size (child, adult)
