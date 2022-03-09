@@ -20,6 +20,11 @@ Use your knowledge of JavaScript classes to create the apps listed here: build t
 	    - addCar(car)
 	    - listCars()
 
+### Challenge :muscle:
+        - method: exportAsHtml()
+	- method: exportAsJson()
+	- method: exportAsXml()
+
 ## 2. Coding School App
 
 - Tutorial
