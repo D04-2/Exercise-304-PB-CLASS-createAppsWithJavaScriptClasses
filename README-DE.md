@@ -1,4 +1,4 @@
-# Create apps with JavaScript classes
+# Erstelle Apps mit JavaScript Klassen
 
 Verwende dein Wissen von JavaScript-Klassen, um die hier aufgeführten Anwendungen zu erstellen: Baue die passenden Methoden, instanziiere die Klassen als Objekt, und rufe die entsprechenden Methoden für die Objekte auf, damit Ihre Anwendung funktioniert.
 
@@ -20,7 +20,7 @@ Verwende dein Wissen von JavaScript-Klassen, um die hier aufgeführten Anwendung
 	    - addCar(car)
 	    - listCars()
 
-## 2. Coding School App
+## 2. Coding Schule App
 
 - Tutorial
 	- Properties
