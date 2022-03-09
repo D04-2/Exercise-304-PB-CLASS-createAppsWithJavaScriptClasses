@@ -40,3 +40,26 @@ Use your knowledge of JavaScript classes to create the apps listed here: build t
 
 
 ## 3. Transportation-Sharing App
+
+- Vehicle
+	- latitude
+	- longitude
+	- currentlyRented
+- Bike
+	- color
+	- size (child, adult)
+	- wheels (2,3)
+- Scooter
+	- batteryMinutesLeft
+- Vehicles
+	- listBikes([child/adult/all])
+	- listCurrentlyFree()
+ 
+### CHALLENGE :muscle:
+- additional methods for Vehicles
+	- displayOnMap()
+		- text?
+		- canvas?
+		- Google Maps API?
+	- getClosestVehichle(lat,long)
+
