@@ -32,8 +32,8 @@ Use your knowledge of JavaScript classes to create the apps listed here: build t
 - Tutorial
 	- properties
 		- title
-		- chapters
-		- price
+		- chapters - *number*
+		- price - *number*
 		- users - *(array)*
 	- methods
 		- addUser(user)
