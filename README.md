@@ -22,4 +22,21 @@ Use your knowledge of JavaScript classes to create the apps listed here: build t
 
 ## 2. Coding School App
 
+- Tutorial
+	- properties
+		- title
+		- chapters
+		- price
+		- users - *(array)*
+	- methods
+		- addUser(user)
+		- listUsers()
+- user
+	- properties
+		- id
+		- firstName
+		- lastName
+	- display()
+
+
 ## 3. Transportation-Sharing App
